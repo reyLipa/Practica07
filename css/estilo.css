@@ -1,0 +1,110 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Baskervville+SC&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&display=swap');
+
+
+*{
+    box-sizing: border-box;
+    padding: 0%;
+
+    margin: 0%;
+    
+}
+body{
+    text-align: center;
+    
+    background-color: #00DBDE;
+    background-image: linear-gradient(90deg, #00DBDE 0%, #FC00FF 100%);
+    
+  
+    
+}
+header{
+    
+    height: 50px;
+    margin: 3%;
+    padding: 38px;
+    
+}
+h1{
+    font-size: 3rem;
+    font-family:"Baskervville SC", Arial, Helvetica, sans-serif;
+    align-content: center;
+    padding: 5%;
+   
+}
+.barra{
+    text-decoration: none
+}
+.dos{
+        align-content: center;
+    }
+
+main{
+    width: 40%;
+    margin: auto;
+}
+form{
+    
+    height: 350px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    
+}  
+form input, form button{
+    width: 80%;
+    max-width: 400px;
+    margin: 5px;
+    padding: 15px;
+}
+form button{
+    background-color: blue;
+    color: white;
+    padding: 15px 38px;
+}
+form h5{
+    color: #3b5bde;
+    margin: 10px;
+}
+ .dibujo{
+    width: 50%;     
+    max-width: 100%;
+    margin: 5px;
+    padding: 15px;
+    transform: scale(0.5);
+   
+ }
+.linea{
+    color: white;
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+   
+}
+nav{
+    display: flex;
+    flex-direction: row;
+   align-content: center;
+   gap: 20px;
+   background-color: rgb(25, 3, 191);
+   height: 40px;
+
+}
+
+footer{
+    
+    font-family: "Cinzel";
+}
+.titulo{
+    margin: 10px;
+    padding: 20px;
+}
+ .contenido .contenido2{
+    text-align: justify;
+}
+

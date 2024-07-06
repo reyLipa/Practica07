@@ -1,0 +1,10 @@
+PRACTICA Nro 07 practica
+-El trabajo trate de plasmar las lecciones dadas a un porfolio en los contenidos solo use lorem.
+-En las tres paginas use nav con los mismos menues que me facilita volver a cualquier pagina.
+-Aplique anclas en la segunda pagina.
+-Utilice formato para tipo de fuente y lo aplique en estilo interno y externo.
+-En la segunda imagen aplique los concepto para mover y reducir el tamaño de la imagen, pero no logre tuve que utilizar una propiedad escala al 50%
+-Tuve dificultades en aplicar los conceptos, ejemplo en la primera pagina puse footer pero esta salia en la vista en la parte superior use las herra-
+mientar para mover el texto y no resulto.
+
+
